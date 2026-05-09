@@ -118,7 +118,7 @@ o Imminent financial losses due to missing critical project deadlines or deliver
    | **Time zone**                      | The time zone is populated by default, according to your system's information.                                                          |
    | **Working hours**                  | Use the time slider to let us know the best time of day to reach you.                                                                   |                                                                   |
 
-9. Click **Submit**. A support case is created, and a notification displays.<br/> When you submit a case, a case ID is assigned, and you can track the progress via the Admin Console. All responses are updated to the case and are also sent by email.<br/> To view the details, or update a support case, click the title of the case on the **Support Summary** or the **Support Cases** page.
+9. Click **Submit**. A support case is created, and a notification displays.<br/> When you submit a case, a case ID is assigned, and yuou can track the progress via the Admin Console. All responses are updated to the case and are also sent by email.<br/> To view the details, or update a support case, click the title of the case on the **Support Summary** or the **Support Cases** page.
 
 ## Developer Resources
 
